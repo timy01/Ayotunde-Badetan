@@ -1,8 +1,8 @@
 # Data, Business Intelligence & Performance Analyst
 
-LinkedIn Profile: www.linkedin.com/in/ayotunde-badetan-sfc™-b999b59a
-Lagos State, Nigeria. Mobile: +2348034078706 
-Email: ayotunde.badetan@gmail.com
+- LinkedIn Profile: www.linkedin.com/in/ayotunde-badetan-sfc™-b999b59a
+- Lagos State, Nigeria. Mobile: +2348034078706 
+- E-mail: ayotunde.badetan@gmail.com
 
 ### PROFILE
 A seasoned Data and Business Intelligence Analyst, with expertise in creating systems for analyzing and understanding data. Skilled in using automated ETL procedures tracking KPIs and creating dashboards to uncover insights from datasets aiding decision-making for stakeholders based on data-driven strategies.
