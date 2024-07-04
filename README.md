@@ -50,7 +50,7 @@ A seasoned Data and Business Intelligence Analyst, with expertise in creating sy
 
 ## Projects
 https://app.powerbi.com/links/5SNvaHcl8I?ctid=0e661e98-834e-4920-9c39-b3e542bb6665&pbi_source=linkShare
-#####Raw file is included in git repo.
+##### Raw file is included in git repo.
 
 ## Volunteering
 ### Analytics Africa	Apr 2022 – Date 
